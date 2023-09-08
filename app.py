@@ -5,6 +5,7 @@ import plotly.express as px
 from streamlit_option_menu import option_menu
 from sklearn.preprocessing import MinMaxScaler
 import pickle
+import joblib
 
 
 st.set_page_config(page_title="CVE security vulner",page_icon=":bar_chart:",layout="wide")
@@ -194,7 +195,8 @@ if selected=='Predict':
      # Prediction
      filename = 'model.pkl'
      with open(filename, 'rb') as file:
-          model = pickle.load(file)
+          # model = pickle.load(file)
+          model = joblib.load(file)
      pred = model.predict(df_predictions_scaled.tail(1))
      print('Prediction :',pred)
      # st.text(pred)

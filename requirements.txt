@@ -4,3 +4,4 @@ plotly
 streamlit_option_menu
 scikit-learn
 pickle
+joblib
