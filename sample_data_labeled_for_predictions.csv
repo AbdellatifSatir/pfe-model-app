@@ -1,0 +1,51 @@
+Access,Complexity,Authentication,Conf.,Integ.,Avail,Score,Number Of Related Vulnerabilities
+Remote,Medium,Not required,None,Partial,None,4.3,22413.0
+Local,Low,Not required,Complete,Complete,Complete,7.2,169.0
+Remote,Low,Unknown,Complete,Complete,Complete,9.0,2403.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,5066.0
+Local,Low,Not required,Complete,Complete,Complete,7.2,2264.0
+Remote,Medium,Not required,Partial,Partial,Partial,6.8,3312.0
+Remote,Low,Unknown,Partial,Partial,Partial,6.5,2264.0
+Local,Medium,Not required,Partial,None,None,1.9,7592.0
+Remote,Low,Not required,None,None,Complete,7.8,7611.0
+Remote,Low,Not required,None,None,Partial,5.0,7611.0
+Remote,Medium,Not required,Complete,Complete,Complete,9.3,254.0
+Remote,Low,Unknown,None,None,Complete,6.8,1662.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,2972.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,891.0
+Local,Low,Not required,None,None,Partial,2.1,222.0
+Remote,Low,Unknown,Partial,None,None,4.0,855.0
+Remote,Low,Not required,Complete,Complete,Complete,10.0,4891.0
+Remote,Medium,Not required,Complete,None,None,7.1,4891.0
+Local,Low,Not required,Partial,Partial,Partial,4.6,9380.0
+Remote,Medium,Unknown,Partial,Partial,Partial,6.0,1010.0
+Local Network,Low,Unknown,Partial,Partial,Partial,5.2,891.0
+Remote,Low,Not required,None,None,Partial,5.0,2101.0
+Remote,Low,Unknown,None,Partial,Partial,5.5,1010.0
+Remote,Low,Unknown,Partial,Partial,Partial,6.5,1591.0
+Remote,Medium,Unknown,None,Partial,None,3.5,22413.0
+Local Network,Low,Not required,Partial,Partial,Partial,5.8,7611.0
+Remote,Medium,Unknown,None,Partial,None,3.5,22413.0
+Local,Low,Not required,Complete,Complete,Complete,7.2,2264.0
+Remote,Medium,Not required,Complete,Complete,Complete,9.3,7611.0
+Local,Medium,Not required,Complete,Complete,Complete,6.9,963.0
+Remote,Medium,Not required,None,Partial,None,4.3,22413.0
+Local Network,Low,Not required,Partial,None,None,3.3,4891.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,1591.0
+Remote,Medium,Unknown,None,Partial,None,3.5,22413.0
+Remote,High,Unknown,None,Partial,None,2.1,22413.0
+Remote,Medium,Not required,Partial,Partial,Partial,6.8,2264.0
+Remote,Medium,Not required,None,Partial,None,4.3,22413.0
+Remote,Low,Not required,Complete,Complete,Complete,10.0,338.0
+Remote,Low,Not required,Complete,None,None,7.8,7592.0
+Remote,Medium,Not required,Partial,Partial,Partial,6.8,7611.0
+Remote,Medium,Unknown,None,Partial,None,3.5,22413.0
+Remote,Medium,Not required,Partial,Partial,Partial,6.8,10.0
+Remote,Medium,Not required,Partial,Partial,Partial,6.8,253.0
+Remote,Low,Not required,Complete,Complete,Complete,10.0,1444.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,934.0
+Remote,Low,Not required,Partial,Partial,Partial,7.5,4891.0
+Remote,Medium,Not required,None,Partial,None,4.3,22413.0
+Remote,Low,Unknown,Partial,Partial,None,5.5,235.0
+Remote,Low,Not required,Partial,None,None,5.0,4891.0
+Local,Low,Not required,Partial,Partial,Partial,4.6,11915.0
