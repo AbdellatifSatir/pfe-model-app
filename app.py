@@ -194,9 +194,9 @@ if selected=='Predict':
 
      # Prediction
      filename = 'model.pkl'
-     with open(filename, 'rb') as file:
-          # model = pickle.load(file)
-          model = joblib.load(file)
+     # with open(filename, 'rb') as file:
+     #      model = pickle.load(file)
+     model = pickle.load(filename)
      pred = model.predict(df_predictions_scaled.tail(1))
      print('Prediction :',pred)
      # st.text(pred)
